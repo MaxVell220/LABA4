@@ -1,11 +1,11 @@
-$(document).ready(function($)
+﻿$(document).ready(function($)
 {
 	var ajax_data =
 	[
-		{fname:"Иванов", lname:"Иван", age: 19, mark: 8.5}, 
-		{fname:"Алексеев", lname:"Алексей", age: 20, mark: 8},
-		{fname:"Кротов", lname:"Дмитрий", age: 21, mark: 9},
-        {fname:"Андреев", lname:"Андрей", age: 19, mark: 9.5},
+		{fname:"Турок", lname:"Максим", age: 19, mark: 8.5}, 
+		{fname:"Турок", lname:"Сергей", age: 20, mark: 8},
+		{fname:"Турок", lname:"Антон", age: 21, mark: 9},
+        {fname:"Турок", lname:"Андрей", age: 19, mark: 9.5},
 	]
 
 	var random_id = function  () 
